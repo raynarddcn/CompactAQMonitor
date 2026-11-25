@@ -11,3 +11,7 @@ A portable device designed to monitor Air Quality parameters inside a room with 
 I am living in a high-density dorm room with closed windows, which causes indoor air quality to plummet rapidly (especially CO2). High CO2 levels can lead to sleep disruption which causes fatigue and brain fog. Cheap sensors usually fake the CO2 data using derived values to estimate CO2 which is prone to fail and be innacurate.
 CompactAQMonitor is designed as an accurate and reliable sensor & desk companion without spending too much money as a real air quality monitor, but still get the core features.
 
+# Images
+<img src="Images/PCBView.png" alt="PCB Design" width="400">
+<img src="Images/Assembled.png" alt="Assembled View from front" width="400">
+<img src="Images/case.png" alt="Case without module" width="400">
