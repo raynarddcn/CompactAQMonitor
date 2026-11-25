@@ -1,0 +1,8 @@
+Item,Mfr #,Description,Qty.,Unit price (NT$),Unit Price(US$),Total Price (US$),Product Link,Running total (NT$ with Tax)
+ESP32-S3-WROOM-1-N16R8,ESP32-S3-WROOM-1-N16R8,Main microcontroller,1,240.91,7.2273,7.2273,https://www.mouser.tw/en/ProductDetail/Espressif-Systems/ESP32-S3-WROOM-1-N16R8?qs=Li%252BoUPsLEnvQc9gW6AMhZg%3D%3D,240.91
+Senseair S88 Residential,004-1-0100,Carbon Dioxide Sensor,1,700.51,21.0153,21.0153,https://www.mouser.tw/en/ProductDetail/Senseair/004-1-0100?qs=iLKYxzqNS76G7JcpsBlFuA%3D%3D,700.51
+DFRobot Fermion SHT40 ,SEN0428,Temperature / RH Sensor,1,268.88,8.0664,8.0664,https://www.mouser.tw/en/ProductDetail/DFRobot/SEN0428?qs=Rp5uXu7WBW%252BVV8ZyuS6LxQ%3D%3D,268.88
+Sensirion SPS30,SPS30,Particulate Matter Sensor,1,1409.62,42.2886,42.2886,https://www.mouser.tw/en/ProductDetail/Sensirion/SPS30?qs=lc2O%252BfHJPVbEPY0RBeZmPA%3D%3D,1409.62
+DFRobot Fermion SGP40 ,SEN0392,TVOC/Nox Sensor,1,519.83,15.5949,15.5949,https://www.mouser.tw/en/ProductDetail/DFRobot/SEN0392?qs=iLbezkQI%252BsgB0iY1FvNOdA%3D%3D,519.83
+PCB Services and shipping,JLCPCB,PCB Printing services+shipping fees,1,-,50,50,https://jlcpcb.com,-
+TFT LCD ILI9341 2.8,TJCTM2048SPI,TFT LCD For user interface,1,480,14.4,14.4,https://tw.shp.ee/X375X7LT,
